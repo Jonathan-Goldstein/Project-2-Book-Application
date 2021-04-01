@@ -1,0 +1,23 @@
+{
+  "name": "project-2-book-application",
+  "version": "1.0.0",
+  "description": "project2-booksology",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathan-Goldstein/Project-2-Book-Application.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jonathan-Goldstein/Project-2-Book-Application/issues"
+  },
+  "homepage": "https://github.com/Jonathan-Goldstein/Project-2-Book-Application#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.6.2"
+  }
+}
