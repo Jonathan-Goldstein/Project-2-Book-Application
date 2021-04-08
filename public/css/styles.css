@@ -1,0 +1,131 @@
+
+body {
+    box-sizing: border-box;
+    background-image: url('../views/images/library.jpg');
+}
+
+nav {
+    background-color: #000;
+    height: 100px;
+    
+}
+ #logout { 
+     background-color: #000;
+     color: #fff;
+}
+nav label {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#input {
+    float: right;
+    width: 30%;
+    padding-right: 8%;
+    padding-top: 1.5%;
+}
+
+.links {
+    /* display: inline-block; */
+    padding-top: 1.5%;
+    float: right;
+}
+
+.main-img {
+    padding:10% 0 0 34%;
+    opacity: 70%;
+}
+
+/* main h2 {
+    padding: 1% 0 0 43%;
+}
+
+main p {
+    padding: 1% 0 0 43%;
+} */
+
+.Welcome-title {
+    color: #ffffff;
+    padding: 0% 0 0 12%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+
+.main-text {
+    padding: 2% 0 0 35%;
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+
+.main-btn {
+    padding: 1% 0 0 49%;
+}
+
+button {
+    background-color: #ffffff;
+    color: #000;
+    border-radius: 5px;
+}
+
+.login-container {
+  
+    align-items: center;
+    background-color: #000;
+    background-size: 200px 150px;
+    border-top: 25%;
+    
+}
+
+#signup-container {
+    background-color: #000;
+}
+
+.form {
+    padding-top: 2%;
+}
+
+.booklist-form {
+    background-color: #000;
+    align-items: center;
+}
+
+.book-list {
+    padding-top: 5%;
+    background-color: #000;
+}
+
+.form-group {
+    padding-left: 35%;
+    color: #ffffff;
+}
+
+label {
+    padding-right: 5%;
+    padding-top: 2%;
+}
+
+#author-name {
+    padding-left: 5%;
+}
+
+h2 {
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 20%;
+    text-align: right;
+}
+
+h3 {
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 5%;
+
+}
+
+#book-button {
+    border-radius: 6px;
+    height: 30px;
+    width: 50px;
+    padding-top: 3%;
+}
