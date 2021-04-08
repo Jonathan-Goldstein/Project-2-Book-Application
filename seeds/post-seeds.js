@@ -7,18 +7,18 @@ const postData = [
         user_id: 3
     },
     {
-        title: "Harry Potter!",
+        title: "Harry Potter Philosopher's Stone",
         post_content: "This is great novel",
         user_id: 1
     },
     {
-        title: "Harry Potter1!",
+        title: "Harry Potter Chamber of Secrets",
         post_content: "This is great story book",
         user_id: 2
 
     },
     {
-        title: "Harry Potter2!",
+        title: "Harry Potter Prisoner of Azkaban",
         post_content: "Amazing!",
         user_id: 5
     },
